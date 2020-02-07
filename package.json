@@ -1,0 +1,15 @@
+{
+  "name": "portable-proxy",
+  "version": "1.0.0",
+  "description": "Just a small package to hide hosts behind the one",
+  "author": "lacedon1@gmail.com",
+  "license": "MIT License",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.0"
+  }
+}
